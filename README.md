@@ -1,0 +1,1 @@
+# LSA-Net-Location-and-Shape-Attention-Network-for-Automatic-Surface-Defect-Segmentation
